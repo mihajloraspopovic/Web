@@ -1,0 +1,462 @@
+@media only screen and (min-width: 1030px) {
+    .Welcome_text_Class {
+        position: relative;
+        width: 281px;
+        height: 95px;
+        left: 20vw;
+        margin-top: 5vh;
+        overflow: visible;
+    }
+    .Slika {
+        left: 50%;
+          transform: translateX(-50%);
+        position: relative;
+        overflow: visible;
+        width: 203px;
+        height: 271px;
+        margin-top: 10vh;
+        border-radius: 11px;
+    }
+    .Slika img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* or use 'contain' */
+        display: block;
+      }
+    .IG_IN_Class {
+        position: relative;
+        width: 100vw;
+        height: 50vh;
+        margin-top: -2vh;
+        left: 0;
+    }
+    .Rectangle_84_Class {
+        fill: rgba(142,22,22,1);
+    }
+    .Rectangle_84 {
+        left: 50%;
+          transform: translateX(-50%);
+        position: absolute;
+        overflow: visible;
+        width: 20vw;
+        height: 116px;
+        top: 0px;
+    }
+    .MyProjects_text_Class {
+        position: relative;
+        width: 281px;
+        height: 120px;
+        left: 20vw;
+        margin-top: 10vh;
+        overflow: visible;
+    }
+    .My_Projects_Class {
+        left: 0px;
+        margin-top: 5vh;
+        position: relative;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .SCROLL_DOWN_Class {
+        left: 50%;
+          transform: translateX(-50%);
+        top: 30%;
+        position: absolute;
+        overflow: visible;
+        width: 97.133px;
+        height: 41.25px;
+        text-align: center;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        color: rgba(245,245,245,1);
+    }
+    .Scroll_down_line_Class {
+        position: absolute;
+        width: 100vw;
+        height: 84px;
+        top: 95vh;
+        overflow: visible;
+    }
+    .swiper {
+        margin-top: 5vh;
+        width: 20vw;
+        height: 300px;
+      }
+      .About_Me_Class {
+        left: 20vw;
+        margin-top: 5vh;
+        position: relative;
+        overflow: visible;
+        width: 157px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .As_a_third-year_student_in_the_Class {
+        left: 50%;
+          transform: translateX(-50%);
+        top: 45px;
+        position: relative;
+        overflow: visible;
+        width: 40vw;
+        height: 335px;
+        line-height: 20px;
+        margin-top: -2px;
+        text-align: left;
+        font-family: "Nunito Sans", Condensed Normal;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 16px;
+        color: rgba(238,238,238,1);
+    }
+    .Education_Class {
+        left: 20vw;
+        margin-top: 5vh;
+        position: relative;
+        overflow: visible;
+        width: 167px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .Sveu1_Class {
+        left: 20vw;
+        position: relative;
+        width: 177.142px;
+        height: 276px;
+        margin-top: 10vh;
+        overflow: visible;
+    }
+    .Experience_Class {
+        left: 20vw;
+        margin-top: 5vh;
+        position: relative;
+        overflow: visible;
+        width: 182px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .Sveu2_Class {
+        left: 20vw;
+        position: relative;
+        width: 177.142px;
+        height: 327px;
+        margin-top: 10vh;
+        overflow: visible;
+    }
+    .Wrapper_1 {
+        display: flex;
+        flex-direction: row;
+    }
+    .Language_Class {
+        left: 20vw;
+        margin-top: 10vh;
+        position: relative;
+        overflow: visible;
+        width: 166px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .Component_40__1_Class {
+        position: relative;
+        width: 271px;
+        height: 57px;
+        left: 20vw;
+        margin-top: -1vh;
+        overflow: visible;
+    }
+    .Technical_Skills_Class {
+        left: 20vw;
+        margin-top: 10vh;
+        position: relative;
+        overflow: visible;
+        width: 264px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .Career_Path_Class {
+        left: 20vw;
+        margin-top: 10vh;
+        position: relative;
+        overflow: visible;
+        width: 197px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        color: rgba(216,64,64,1);
+    }
+    .Wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-top: 3vh;
+    }
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+    .Web_poz_text_Class {
+        background-color: rgba(216, 64, 64, 1);
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; /* Changed from center to better align text */
+        padding: 2rem 5vw;
+        box-sizing: border-box;
+        text-align: right;
+        gap: 1rem; /* Space between elements */
+    }
+    
+    .Web_Development_Class {
+        font-family: Poppins, sans-serif;
+        font-weight: bold;
+        font-size: 1.2rem;
+        color: rgba(29, 22, 22, 1);
+        max-width: 80%;
+        word-wrap: break-word;
+        line-height: 1.4;
+        align-self: flex-end; /* Align text to the left */
+        padding-right: 1rem;
+    }
+    .As_a_beginner_in_web_developme_Class {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 1.6;
+        color: rgba(238, 238, 238, 1);
+        max-width: 100%;
+        padding: 1.5rem 1rem 1rem 0;
+        border-radius: 0.5rem;
+    }
+      .Dev_poz_text_Class {
+        background-color: rgba(142,22,22,1);
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; /* Changed from center to better align text */
+        padding: 2rem 5vw;
+        box-sizing: border-box;
+        text-align: left;
+        gap: 1rem; /* Space between elements */
+    }
+    .DevOpsSystem_Administration__P_Class {
+        font-family: Poppins, sans-serif;
+        font-weight: bold;
+        font-size: 1.2rem;
+        color: rgba(29, 22, 22, 1);
+        max-width: 80%;
+        word-wrap: break-word;
+        line-height: 1.4;
+    }
+    .I_have_always_been_fascinated__Class {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 1.6;
+        color: rgba(238, 238, 238, 1);
+        max-width: 90%;
+        background-color: rgba(142,22,22,1); /* Optional: keep if you want a sub-bg */
+        padding: 0 1rem 1rem 0;
+        border-radius: 0.5rem;
+    }
+    .Soft_poz_text_Class {
+        background-color: rgba(142,22,22,1);;
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; /* Changed from center to better align text */
+        padding: 2rem 5vw;
+        box-sizing: border-box;
+        text-align: right;
+        gap: 1rem; /* Space between elements */
+    }
+    .Software_Development_Class {
+        font-family: Poppins, sans-serif;
+        font-weight: bold;
+        font-size: 1.2rem;
+        color: rgba(29, 22, 22, 1);
+        max-width: 80%;
+        word-wrap: break-word;
+        line-height: 1.4;
+        align-self: flex-end; /* Align text to the left */
+        padding-right: 1rem;
+    }
+    .Python_has_quickly_become_a_ke_Class {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 1.6;
+        color: rgba(238, 238, 238, 1);
+        max-width: 100%;
+        padding: 0 1rem 1rem 0;
+        border-radius: 0.5rem;
+    }
+    .UI_poz_text_Class {
+        background-color: rgba(216, 64, 64, 1);
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; /* Changed from center to better align text */
+        padding: 2rem 5vw;
+        box-sizing: border-box;
+        text-align: left;
+      }
+      
+      .UIUX_Design_du_Class {
+        font-family: Poppins, sans-serif;
+        font-weight: bold;
+        font-size: 1.2rem;
+        color: rgba(29, 22, 22, 1);
+        max-width: 80%;
+        word-wrap: break-word;
+        line-height: 1.4;
+      }
+      
+      .UIUX_design_focuses_on_creatin_Class {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 1.6;
+        color: rgba(238, 238, 238, 1);
+        max-width: 100%;
+        background-color: rgba(216, 64, 64, 1); /* Optional: keep if you want a sub-bg */
+        padding: 0 1rem 1rem 0;
+        border-radius: 0.5rem;
+      }
+      .Linija_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Path_29_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Path_29 {
+        left: 50%;
+          transform: translateX(-50%);
+        filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+        overflow: visible;
+        position: absolute;
+        width: 80vw;
+        height: 23px;
+        top: 50.5px;
+    }
+    .Linija2_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Linija3_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Linija4_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Linija5_Class {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Linija3 {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Linija4 {
+        fill: rgba(0,0,0,0);
+        stroke: rgba(142,22,22,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    
+}
+@media (min-width: 1032px) and (max-width: 1800px) {
+    .Rectangle_84_Class {
+        fill: rgba(142,22,22,1);
+    }
+    .Rectangle_84 {
+        left: 50%;
+          transform: translateX(-50%);
+        position: absolute;
+        overflow: visible;
+        width: 100vw;
+        height: 116px;
+        top: 0px;
+    }
+  }
+  
